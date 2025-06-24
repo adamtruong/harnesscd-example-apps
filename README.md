@@ -1,4 +1,4 @@
-# Harness CD & GitOps Example Apps
+# Harness CD & GitOps Example Apps (Updated)
 
 This repository contains example applications for demoing Harness CD & GitOps functionality. Feel free
 use this to learn more about Harness CD & GitOps in your own Harness account, or fork this repo and push your own commits!
